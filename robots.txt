@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jayaradhang.github.io/nivoranest-interiors/sitemap.xml
